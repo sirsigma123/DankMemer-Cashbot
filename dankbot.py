@@ -3,7 +3,7 @@ import pyautogui as py
 import time 
 
 
-webbrowser.open('https://discord.com/channels/1380143490045972500/1380143490654015611')
+webbrowser.open('YOUR_DISCORD_SERVER')
 
 time.sleep(5)  # Wait for the page to load
 i=0
